@@ -58,7 +58,7 @@ The following files are available:
 Mouse Follower requires GSAP library to work. You need to import it before the Mouse Follower if you didn't have it before:
 
 ```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.10.4/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.15.0/gsap.min.js"></script>
 <script src="https://unpkg.com/mouse-follower@1/dist/mouse-follower.min.js"></script>
 <script>
     var cursor = new MouseFollower();
